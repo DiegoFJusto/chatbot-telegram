@@ -80,7 +80,8 @@
         -96
       ],
       "id": "98f1af47-78ad-4e7e-979d-ec17de5ecf56",
-      "name": "HTTP Request"
+      "name": "HTTP Request",
+      "onError": "continueRegularOutput"
     },
     {
       "parameters": {
@@ -222,7 +223,7 @@
     "binaryMode": "separate",
     "availableInMCP": false
   },
-  "versionId": "6ab4ba1b-62ba-439f-86b0-5046f9f92338",
+  "versionId": "e74edf69-6d81-46c6-916a-250d26ead1cf",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "82987c18021ab8662dccd9d59e92a42924e6a8493822b84d0585d11b28806c6a"
